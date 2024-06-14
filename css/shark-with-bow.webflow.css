@@ -82,6 +82,11 @@
   right: 10vw;
 }
 
+.item._6 {
+  top: 45vh;
+  right: 60vw;
+}
+
 .shark-image {
   object-fit: contain;
   width: 100%;
